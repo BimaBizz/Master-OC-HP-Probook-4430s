@@ -24,7 +24,22 @@ The SmUUID part gets copied to Generic -> SystemUUID.
 
 The Apple ROM part gets copied to Generic -> ROM.
 
+![Screen Shot 2022-08-03 at 14 59 08](https://user-images.githubusercontent.com/98264074/182559634-0ed5cb84-873e-480c-a0db-de9627590a94.png)
+
 and save it, The last things is copy EFI folder to your EFI partition Flashdisk
 
 #Installation Wifi
 
+download wifi.ketx and kext utility -> https://drive.google.com/drive/folders/1azODhxqdK-grlT_sxIiEctbmf6TGuwJ4?usp=sharing
+
+just unzip kext_utility, open it and grag the wifi kext into kext_Utility 
+
+#Installation Graphics intel HD 3000 for mojave
+
+follow installation on -> https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14
+
+#installation Sound
+
+download hackintosh vietnam tool -> https://drive.google.com/file/d/1D5BKME_ZeCxuO85biRc0r_vZCBhrwv0D/view?usp=sharing
+
+Uncheck all list just check the list on kext->sound->VodooHDA
