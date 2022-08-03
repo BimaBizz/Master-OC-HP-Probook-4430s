@@ -1,5 +1,6 @@
 # Master-OC_077-HP-Probbok-4430s
 
+<<<<<<< Updated upstream
 Support Mojave version
 
 Support Mojave version 10.14.6
@@ -45,4 +46,11 @@ download hackintosh vietnam tool -> https://drive.google.com/file/d/1D5BKME_ZeCx
 ![Screen Shot 2022-08-03 at 15 34 01](https://user-images.githubusercontent.com/98264074/182563595-0a1929d8-66ca-44b0-b4c6-fd411e4dafb9.png)
 
 Uncheck all list just check the list on kext->sound->VodooHDA
+=======
+Support Mojave version 10.14.6
+
+# Installation
+
+before copy EFI folder change first SMBIOS, GenSMBIOS -> Download
+>>>>>>> Stashed changes
 
