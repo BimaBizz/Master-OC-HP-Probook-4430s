@@ -28,18 +28,21 @@ The Apple ROM part gets copied to Generic -> ROM.
 
 and save it, The last things is copy EFI folder to your EFI partition Flashdisk
 
-#Installation Wifi
+# Installation Wifi
 
 download wifi.ketx and kext utility -> https://drive.google.com/drive/folders/1azODhxqdK-grlT_sxIiEctbmf6TGuwJ4?usp=sharing
 
 just unzip kext_utility, open it and grag the wifi kext into kext_Utility 
 
-#Installation Graphics intel HD 3000 for mojave
+# Installation Graphics intel HD 3000 for mojave
 
 follow installation on -> https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14
 
-#installation Sound
+# installation Sound
 
 download hackintosh vietnam tool -> https://drive.google.com/file/d/1D5BKME_ZeCxuO85biRc0r_vZCBhrwv0D/view?usp=sharing
 
+![Screen Shot 2022-08-03 at 15 34 01](https://user-images.githubusercontent.com/98264074/182563595-0a1929d8-66ca-44b0-b4c6-fd411e4dafb9.png)
+
 Uncheck all list just check the list on kext->sound->VodooHDA
+
