@@ -1,6 +1,4 @@
-# Master-OC_077-HP-Probbok-4430s
-
-Support Mojave version
+# Master-OC-HP-Probbok-4430s
 
 Support Mojave version 10.14.6
 
