@@ -28,7 +28,7 @@ and save it, The last things is copy EFI folder to your EFI partition Flashdisk
 
 # Installation Kext
 
-just unzip kext_utility, open it and grag the wifi kext into kext_Utility 
+just open kext utility, and grag the wifi kext, bluetooth kext, and USB3 kext into kext_Utility 
 
 # Installation Graphics intel HD 3000 for mojave
 
