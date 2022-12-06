@@ -36,7 +36,7 @@ follow installation on -> https://github.com/chris1111/Fix-Graphics-HD-3000-Moja
 
 # Installation Graphics intel HD 3000 for Catalina
 
-https://github.com/chris1111/Legacy-Video-patch
+follow installation on -> https://github.com/chris1111/Legacy-Video-patch
 
 
 
